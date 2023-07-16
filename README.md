@@ -7,7 +7,7 @@ python wifiscanner.py [interface] [noise_filter_flag]
 
 -> interface : this should refer to the interface name which is ALREADY in monitor mode
 
--> noise_filter_flag : this should either be 0 or 1; 1 - would show all the noise tapped by the interface as <UNKNOWN> ; 0 - would not display that
+-> noise_filter_flag : this should either be 0(false) or 1(true); 1 - would show all the noise tapped by the interface as <UNKNOWN> ; 0 - would not display that
                                                        
 EXAMPLE: python wifijammer wlan0mon 1
 
