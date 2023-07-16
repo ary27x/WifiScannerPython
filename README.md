@@ -3,7 +3,7 @@
 **(RUN AS ROOT)**
 
 **USAGE:**   
-python wifiscanner.py interface noise_filter_flag
+python wifiscanner.py [interface] [noise_filter_flag]
 
 -> interface : this should refer to the interface name which is ALREADY in monitor mode
 
