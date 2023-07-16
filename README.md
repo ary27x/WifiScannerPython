@@ -13,7 +13,7 @@ EXAMPLE: python wifijammer wlan0mon 1
 
 # Putting Your Card In Monitor Mode:  
 
-**IMPORTANT : FIRST RUN airmon-ng check kill**
+**VERY IMPORTANT : FIRST RUN airmon-ng check kill**
 
 *Assuming : monitor mode and promiscuous mode is supported by wifi card , iface name = wlan0*
 
